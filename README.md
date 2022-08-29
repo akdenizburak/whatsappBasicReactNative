@@ -1,4 +1,4 @@
-# Homework 2
+# WhatsApp Basic App
 ### This is a simple Whatsapp Mobile Application clone. This project aims to be able to switch between pages click on objects and display the contents on the opened pages.
 
 *This project created with React Native CLI*
@@ -10,6 +10,20 @@
 * React navigation passing parameters to routes
 * Mockaroo for mock data JSON
 * Prefer FlatList using to ScrollView  
+
+## Installation
+
+```
+git clone https://github.com/akdenizburak/whatsappBasicReactNative.git
+```
+
+```
+npm install
+```
+
+```
+npx react-native start & npx react-native run-android
+```
 
 ## ScreenShots
 
